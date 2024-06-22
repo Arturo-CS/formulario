@@ -33,15 +33,12 @@ Creación de la tabla con el ORM Prisma
 
 ![Uso del Orm para la BD](/assets/setup.png)
 
-Creación del formulario para guardar datos
+Tabla actualizada con los botones de editar y eliminar
 
-![image](https://github.com/Arturo-CS/formulario/assets/128654866/a6249c77-0a57-4008-a303-846246a858c0)
+![image](https://github.com/Arturo-CS/formulario/assets/128654866/9497a44c-4a01-4e53-b43e-0d1cd0411724)
 
-Envio de datos
+Formulario con los datos listos para editar
 
-![image](https://github.com/Arturo-CS/formulario/assets/128654866/c7ba1135-8f08-4f76-b43d-350bf41b2776)
+![image](https://github.com/Arturo-CS/formulario/assets/128654866/78818e8e-f947-4af6-b2d9-c2d8cc02c7e8)
 
-Lista de personas actualizada
-
-![image](https://github.com/Arturo-CS/formulario/assets/128654866/e76dc8f9-c8a8-466e-9bbb-d33ca4fdd9eb)
 
